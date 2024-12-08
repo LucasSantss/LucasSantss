@@ -124,7 +124,7 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasSantss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -132,8 +132,10 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
 
 </p>
