@@ -5,8 +5,7 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
 
 
 <p align="left">
-    </a>
-    <a target="_blank" href="https://www.linkedin.com/in/lucasr-s/" >
+    <a href="https://www.linkedin.com/in/lucasr-s/"  target="_blank">
         <img 
             title="Meu-Perfil-linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
