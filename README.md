@@ -11,6 +11,11 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
             title="Meu-Perfil-linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
+        <a href="https://vercel.com/lucassantss-projects" target="_blank">
+        <img 
+            title="Meu-Perfil-Vercel" 
+            src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+        />
     </a>
     
 </p>
