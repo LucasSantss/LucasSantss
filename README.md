@@ -121,19 +121,11 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasSantss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />  
-    <img 
-      align="left"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasSantss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSantss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-</p>
+###
 
 </p>
