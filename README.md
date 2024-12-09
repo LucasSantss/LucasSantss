@@ -6,14 +6,16 @@ Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Ind
 
 <p align="left">    
 </p>
-    <a href="https://www.linkedin.com/in/lucasr-s/"  target="_blank">
-        <img  title="Meu-Perfil-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/lucasr-s/" >
+        <img  title="Meu-Perfil-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" target="_blank" alt="Linkedin"/>
     </a>
-    <a href="https://vercel.com/lucassantss-projects" target="_blank">
-        <img title="Meu-Perfil-Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <a href="https://vercel.com/lucassantss-projects" >
+        <img title="Meu-Perfil-Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" target="_blank" alt="Vercel"/>
     </a>
-
-
+    <a href="mailto:lucas.santosrod@hotmail.com" >
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" height="35" target="_blank" alt="Outlook"/>
+    </a>
+    
 ---
 
 ### Linguagens e Tecnologias
