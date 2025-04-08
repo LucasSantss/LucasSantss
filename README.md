@@ -1,7 +1,7 @@
 ## Lucas Rodrigues
 **`Desenvolvedor`**
 
-Me chamo Lucas Rodrigues, tenho 26 anos. Com o curso técnico em Automação Industrial(IFCE). Atualmente estou cursando Ciência da Computação pela Estácio. Apaixonado por tecnologia, estou em transição para a área de desenvolvimento de software, buscando aplicar minhas habilidades práticas e teóricas para criar soluções inovadoras.
+Me chamo Lucas Rodrigues, faço Ciência da Computação pela Estácio. Apaixonado por tecnologia, estou em transição para a área de desenvolvimento de software, buscando aplicar minhas habilidades práticas e teóricas para criar soluções inovadoras.
 
 
 <p align="left">    
